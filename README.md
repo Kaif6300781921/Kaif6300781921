@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**Kaif6300781921/Kaif6300781921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align = "center">-Hey 👋 Hi, I’m @ Punith G S Here!</h1>
 
 <h3  align = "center"> 🚀 Aspiring Software Engineer, Tech enthusiast. </h3>
 
@@ -45,7 +28,7 @@ Here are some ideas to get you started:
 </ul>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PunithKumar_GS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Punith Gs](https://www.linkedin.com/in/punith-gs-662483292/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PunithGs0424) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punithgs0404@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_me_mohammad_kaif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Punith Gs](linkedin.com/in/shaik-mohammad-kaif-7898a3258)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](kaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifjob9999@gmail.com)
 
 
 # 💻 Tech Stack:
