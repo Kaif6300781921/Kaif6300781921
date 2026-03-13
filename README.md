@@ -26,7 +26,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/shaik-mohammad-kaif-7898a3258"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shaik-mohammad-kaif-7898a3258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:kaifjob9999@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
