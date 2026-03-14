@@ -1,95 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kaif Shaik</h1>
-<h3 align="center">Backend Developer | Java Developer | Data Analyst Learner</h3>
+# 💫 About Me:
+🎓 MCA Graduate from AITS Tirupati<br>🌱 Currently learning Java Full Stack Development<br>📊 Interested in Data Analytics & Backend Development<br>💡 Skilled in Java, Python, HTML, CSS, MySQL<br>☁️ Learning AWS and modern backend technologies<br>💼 Actively looking for Software Developer / Backend Developer roles<br>⚡ Fun fact: I enjoy solving real-world problems using code
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_mohammad_kaif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shaik-mohammad-kaif-7898a3258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifjob9999@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaif6300781921 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kaif6300781921 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif6300781921 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kaif6300781921 &theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kaif6300781921 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Kaif6300781921 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🎓 MCA Graduate from AITS Tirupati
-- 🌱 Currently learning **Java Full Stack Development**
-- 📊 Interested in **Data Analytics & Backend Development**
-- 💡 Skilled in **Java, Python, HTML, CSS, MySQL**
-- ☁️ Learning **AWS and modern backend technologies**
-- 💼 Actively looking for **Software Developer / Backend Developer roles**
-- ⚡ Fun fact: I enjoy solving real-world problems using code
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: **kaifjob9999@gmail.com**
-- 📱 Phone: **6300781921**
-- 📍 Location: **Bangalore, India**
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shaik-mohammad-kaif-7898a3258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:kaifjob9999@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-## 🚀 Tech Stack
-
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
-![AWS](https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonaws)
-![NodeJS](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js)
-
----
-
-## 📊 GitHub Stats
-
-![Kaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaif6300781921&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif6300781921&layout=compact&theme=tokyonight)
-
----
-
-## 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaif6300781921&theme=github)
-
----
-
-## 💻 Projects
-
-### Two-Stage Job Title Identification System
-- Built a machine learning system to identify job titles from job advertisements.
-- Used **BERT, Word2Vec, TF-IDF, NLP techniques**.
-- Achieved **85%+ accuracy** with improved classification performance.
-- Tech Used: **Python, Django, MySQL**
-
----
-
-## 🎓 Education
-
-- **MCA** – Annamacharya Institute of Technology & Science (2023-2025) – 72%
-- **BSc Computer Science (Cloud Computing)** – Govt College for Men Autonomous Kadapa (2020-2023) – 75%
-
----
-
-## 🏆 Certifications
-
-- Python Programming – edX
-- Artificial Intelligence Primer – Infosys Springboard
-- Data Analytics Job Simulation – Deloitte
-- Data Analyst Certification – Oneroadmap
-- Software Engineering Job Simulation – JP Morgan
-
----
-
-## ✨ Quote
-
-"Everything that happens in life is part of God's perfect plan. Trust the process."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
